@@ -60,7 +60,7 @@ footer p + p { margin-top: 1.1em; }
 
 .flash:hover {
   opacity: 1;
-  animation: flash 0.3s step-end infinite;
+  animation: flash 0.9s step-end infinite;
 }
 @keyframes flash {
   0%      { color: #FF0000; }
